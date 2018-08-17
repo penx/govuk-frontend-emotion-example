@@ -1,0 +1,31 @@
+{
+  "name": "govuk-frontend-emotion-example",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "emotion": "^9.2.6",
+    "govuk-frontend-emotion": "0.0.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penx/govuk-frontend-emotion-example.git"
+  },
+  "author": "Alasdair McLeay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penx/govuk-frontend-emotion-example/issues"
+  },
+  "homepage": "https://github.com/penx/govuk-frontend-emotion-example#readme"
+}
