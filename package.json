@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "emotion": "^9.2.6",
+    "emotion": "^10.0.0",
     "govuk-frontend-emotion": "0.0.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
