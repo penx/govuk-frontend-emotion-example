@@ -7,13 +7,16 @@
     "govuk-frontend-emotion": "0.0.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "snyk": "^1.316.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
   "main": "index.js",
@@ -27,5 +30,6 @@
   "bugs": {
     "url": "https://github.com/penx/govuk-frontend-emotion-example/issues"
   },
-  "homepage": "https://github.com/penx/govuk-frontend-emotion-example#readme"
+  "homepage": "https://github.com/penx/govuk-frontend-emotion-example#readme",
+  "snyk": true
 }
