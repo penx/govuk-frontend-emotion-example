@@ -5,8 +5,8 @@
   "dependencies": {
     "emotion": "^9.2.6",
     "govuk-frontend-emotion": "0.0.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-scripts": "1.1.4"
   },
   "scripts": {
